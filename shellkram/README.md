@@ -1,13 +1,9 @@
+# Hinweis
+
+Beachte die jeweiligen Readme zu den einzelnen Dateien
 
 
-
-
-
-
-
-
-# Alte Informationen bezogen auf 
-
+# Alte Informationen bezogen auf Redaxo 4
 Redaxo
 
 Installationsrechte per Shell Script ändern
