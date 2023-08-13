@@ -65,6 +65,9 @@ Die Ermittlung der benötigten Extensions für Redaxo wurde mit Hilfe dieses Scr
 
 Beachte die Anmerkungen zur Ermittlung der Extensions unter [PHP Extension Dependency Detector](https://github.com/RogerGee/php-ext-depends)
 
+Auslöser des Ganzen waren diese 2 Issues:  
+[Setup / add extension check 'gd'](https://github.com/redaxo/redaxo/pull/5750) und [Mindestanforderungen im Setup unterscheiden sich von Angaben der Downloadseite](https://github.com/redaxo/redaxo/issues/5767)
+
 # :framed_picture: Beispielansicht
 
 ![check_required_extensions.php.png](check_required_extensions.php.png)
